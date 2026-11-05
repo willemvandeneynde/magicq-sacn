@@ -1,0 +1,15 @@
+{
+  "name": "chamsys-remote-ethernet-protocol",
+  "version": "1.0.0",
+  "description": "sACN (E1.31) sender voor MagicQ input",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "license": "ISC",
+  "engines": {
+    "node": ">=18"
+  }
+}
